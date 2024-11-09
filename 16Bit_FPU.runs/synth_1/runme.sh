@@ -37,4 +37,4 @@ EAStep()
      fi
 }
 
-EAStep vivado -log pre_norm.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source pre_norm.tcl
+EAStep vivado -log add_sub.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source add_sub.tcl

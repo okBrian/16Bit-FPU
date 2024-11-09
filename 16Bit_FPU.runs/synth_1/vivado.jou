@@ -3,22 +3,22 @@
 # SW Build 5164865 on Thu Sep  5 14:36:28 MDT 2024
 # IP Build 5164407 on Fri Sep  6 08:18:11 MDT 2024
 # SharedData Build 5164864 on Thu Sep 05 13:09:09 MDT 2024
-# Start of session at: Thu Nov  7 20:58:38 2024
-# Process ID: 51836
+# Start of session at: Sat Nov  9 14:47:21 2024
+# Process ID: 130934
 # Current directory: /home/bok/dev/16Bit_FPU/16Bit_FPU.runs/synth_1
-# Command line: vivado -log pre_norm.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source pre_norm.tcl
-# Log file: /home/bok/dev/16Bit_FPU/16Bit_FPU.runs/synth_1/pre_norm.vds
+# Command line: vivado -log add_sub.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source add_sub.tcl
+# Log file: /home/bok/dev/16Bit_FPU/16Bit_FPU.runs/synth_1/add_sub.vds
 # Journal file: /home/bok/dev/16Bit_FPU/16Bit_FPU.runs/synth_1/vivado.jou
 # Running On        :bok
 # Platform          :unknown
 # Operating System  :unknown
 # Processor Detail  :11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz
-# CPU Frequency     :503.357 MHz
+# CPU Frequency     :794.341 MHz
 # CPU Physical cores:4
 # CPU Logical cores :8
 # Host memory       :16448 MB
 # Swap memory       :17179 MB
 # Total Virtual     :33628 MB
-# Available Virtual :27813 MB
+# Available Virtual :24989 MB
 #-----------------------------------------------------------
-source pre_norm.tcl -notrace
+source add_sub.tcl -notrace
